@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585993611 source:c:\users\kiit\desktop\new folder\movezeroes\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+
